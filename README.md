@@ -1,6 +1,6 @@
 # ItemPane demo
 
-A simple demo project presenting a specialized implementation of `javafx.scene.layout.FlowPane` that allows content to be dynamically centered ([unlike original Flowpane](https://stackoverflow.com/questions/43747405/javafx-aligning-all-content-in-a-flowpane)).
+A simple demo project presenting a specialized implementation of `javafx.scene.layout.FlowPane` that allows content to be dynamically centered ([unlike original Flowpane](https://stackoverflow.com/questions/43747405/javafx-aligning-all-content-in-a-flowpane)). Core `ItemPane` class is located in `itempanedemo.layout` package.
 
 ## How does it look like? 
 
