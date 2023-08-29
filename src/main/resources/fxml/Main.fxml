@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.Rectangle?>
+<?import itempanedemo.layout.ItemPane?>
+<?import javafx.geometry.Insets?>
+<ItemPane prefWidth="1000.0" prefHeight="600.0">
+    <padding>
+        <Insets top="25.0" bottom="25.0" left="25.0" right="25.0"/>
+    </padding>
+    <Rectangle width="250.0" height="350.0"/>
+    <Rectangle width="250.0" height="350.0"/>
+    <Rectangle width="250.0" height="350.0"/>
+    <Rectangle width="250.0" height="350.0"/>
+    <Rectangle width="250.0" height="350.0"/>
+</ItemPane>
